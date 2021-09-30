@@ -14,3 +14,5 @@ elif getal_1 < getal_2:
 else:
     print('a en b zijn even groot')
 
+print('Het minimum is: ' + str(min))
+print('Het maximum is: ' + str(max))
