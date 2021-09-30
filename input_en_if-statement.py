@@ -7,6 +7,10 @@ if getal_1 > getal_2:
     max = getal_1
     print('a is het grootste getal: ' + str(max))
 
-if getal_1 < getal_2:
+elif getal_1 < getal_2:
     min = getal_1
     print('a is het kleinste getal: ' + str(min))
+
+else:
+    print('a en b zijn even groot')
+
